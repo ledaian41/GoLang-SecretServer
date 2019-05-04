@@ -1,7 +1,7 @@
 package main
 
 import (
-	swagger "github.com/ledaian41/GoLang-SecretServerAPI/src/go"
+	swagger "github.com/ledaian41/GoLang-SecretServer/src/go"
 	"log"
 	"net/http"
 )
